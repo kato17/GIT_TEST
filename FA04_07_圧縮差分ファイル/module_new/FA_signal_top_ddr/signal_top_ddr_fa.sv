@@ -12,7 +12,7 @@
 //--------------------------------------------------------------------------------------------------
 // 1.0   | 2019.04.12   | Koshiro SHIMIZU   | 新規作成
 // 1.1   | 2019.04.15   | kazuki Matsusaka  | w_sp_startのlogic宣言を追加
-// 1.2   | 2022.09.15   | WNT) Kato         | fa_enを追加
+// 1.2   | 2022.09.15   | WNT) Kato         | fa_enを追加_add
 //
 // Copyright 2019 Oki Electric Industry Co., Ltd.
 //
